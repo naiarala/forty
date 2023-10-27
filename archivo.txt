@@ -1,1 +1,3 @@
 Usuario2 modifica archivo
+Usuario1 crea archivo.txt
+rama-usuario1
