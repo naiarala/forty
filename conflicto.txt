@@ -1,2 +1,3 @@
 Usuario1 crea el archivo conflicto.txt
-Usuario2 hace cambios en conflicto.txt
+Usuario1 hace cambios en conflicto.txt
+
