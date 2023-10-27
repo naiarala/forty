@@ -2,3 +2,4 @@ Usuario2 modifica archivo
 Usuario1 crea archivo.txt
 rama-usuario1
 
+Usuario2 cambia este archivo desde la rama feature-new
